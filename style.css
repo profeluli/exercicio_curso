@@ -11,14 +11,14 @@ nav{
         display: flex;
         justify-content: flex-end; /* Alinha o menu à direita */
         align-items: center; /* Alinha os itens verticalmente */
-        background-color: #333; /* Cor de fundo do menu */
         padding: 10px; /* Espaçamento interno do menu */
     }
 
 body, h1, h2 {
     display: flex;
     font-family: "Mulish", sans-serif;
-    justify-content: center;
+    justify-content: space-between;
+    flex-direction: column;
     align-items: center;
     background-color: rgb(255, 178, 255);
 }
