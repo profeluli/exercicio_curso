@@ -8,7 +8,7 @@ header{
 }
 
 nav ul{
-        display:block;
+        display:inline-flex;
         justify-content: flex-end; 
         align-items: flex-start;
         padding: 30px;
