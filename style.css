@@ -8,11 +8,11 @@ header{
 }
 
 nav ul{
-        display:inline-flex;
+        display: inline;
         justify-content: flex-end; 
-        align-items: flex-start;
+        align-items: center;
         padding: 30px;
-        flex-direction: column;
+        flex-direction: row;
     }
 
 body, h1, h2 {
