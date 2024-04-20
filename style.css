@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 
+*{
+    display: flex;
+    font-family: "Mulish", sans-serif;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(255, 178, 255);
+}
 header{
     display: flex;
     flex-direction: row;
@@ -16,18 +24,10 @@ nav{
         padding: 30px;
     }
 
-body, h1, h2 {
-    display: flex;
-    font-family: "Mulish", sans-serif;
-    justify-content: space-around;
-    flex-direction: column;
-    align-items: center;
-    background-color: rgb(255, 178, 255);
-}
-
 img {
     width: 40%;
     display: flex;
+    flex-direction: row;
     justify-content: flex-end;
     align-items: center;
 }
