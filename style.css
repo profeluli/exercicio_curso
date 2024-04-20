@@ -7,7 +7,7 @@ header{
     flex-direction: row;
 }
 
-nav ul{
+nav li{
         display: inline;
         flex-direction: row;
         justify-content: space-between; 
