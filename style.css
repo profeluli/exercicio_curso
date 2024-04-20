@@ -7,7 +7,7 @@ header{
     flex-direction: row;
 }
 
-nav{
+nav li{
         display: flex;
         justify-content: space-around; /* Alinha o menu à direita */
         align-items: center; /* Alinha os itens verticalmente */
