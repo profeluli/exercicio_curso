@@ -4,7 +4,7 @@ nav{
     justify-content: flex-end;
     align-items: flex-start;
     font-family: "Mulish", sans-serif;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 body, h1, h2 {
