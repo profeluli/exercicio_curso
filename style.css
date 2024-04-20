@@ -27,7 +27,7 @@ body, h1, h2 {
 
 img {
     width: 40%;
-    display: flex;
-    justify-content: right;
-    align-items: flex-end;
+    display: inline;
+    justify-content: flex-end;
+    align-items: center;
 }
