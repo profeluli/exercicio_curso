@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 
+header{
+    justify-content: flex-end;
+    align-items: flex-start;
+    font-family: "Mulish", sans-serif;
+}
+
 body {
     display: flex;
     font-family: "Mulish", sans-serif;
     justify-content: center;
     align-items: center;
     background-color: rgb(255, 178, 255);
-}
-header{
-    justify-content: flex-end;
-    font-family: "Mulish", sans-serif;
 }
