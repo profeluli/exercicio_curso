@@ -7,3 +7,6 @@ body {
     align-items: center;
     background-color: rgb(255, 178, 255);
 }
+header{
+    justify-content: flex-end;
+}
