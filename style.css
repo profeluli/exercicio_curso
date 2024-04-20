@@ -15,7 +15,7 @@ nav li{
         flex-direction: column;
     }
 
-body, h1, h2 {
+h1, h2 {
     display: flex;
     font-family: "Mulish", sans-serif;
     justify-content: space-between;
