@@ -7,7 +7,7 @@ nav{
     flex-direction: column;
 }
 
-body {
+body, h1, h2 {
     display: flex;
     font-family: "Mulish", sans-serif;
     justify-content: center;
@@ -15,22 +15,8 @@ body {
     background-color: rgb(255, 178, 255);
 }
 
-h1 {
-    display: flex;
-    font-family: "Mulish", sans-serif;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(255, 178, 255);
-}
-
-h2 {
-    display: flex;
-    font-family: "Mulish", sans-serif;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(255, 178, 255);
-}
 img {
     width: 50%;
-
+    display: flex;
+    justify-content: right;
 }
