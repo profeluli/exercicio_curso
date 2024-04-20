@@ -12,7 +12,7 @@ nav{
         justify-content: space-around; /* Alinha o menu à direita */
         align-items: center; /* Alinha os itens verticalmente */
         padding: 10px; /* Espaçamento interno do menu */
-        flex-direction: row;
+        flex-direction: column;
     }
 
 body, h1, h2 {
