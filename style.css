@@ -9,8 +9,8 @@ header{
 
 nav ul{
         display: flex;
-        justify-content: space-around; /* Alinha o menu à direita */
-        align-items: baseline;
+        justify-content: center; /* Alinha o menu à direita */
+        align-items: flex-start;
         padding: 10px; /* Espaçamento interno do menu */
         flex-direction: row;
     }
