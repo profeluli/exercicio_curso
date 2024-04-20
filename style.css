@@ -4,7 +4,7 @@ header{
     justify-content: flex-end;
     align-items: flex-start;
     font-family: "Mulish", sans-serif;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 body {
@@ -13,4 +13,9 @@ body {
     justify-content: center;
     align-items: center;
     background-color: rgb(255, 178, 255);
+}
+
+img {
+    display: flex;
+
 }
