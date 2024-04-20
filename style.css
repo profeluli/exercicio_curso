@@ -8,8 +8,8 @@ header{
 }
 
 nav ul{
-        display: inline;
-        justify-content: center; /* Alinha o menu à direita */
+        display:block;
+        justify-content: flex-end; /
         align-items: flex-start;
         padding: 30px;
         flex-direction: row;
