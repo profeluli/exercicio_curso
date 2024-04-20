@@ -12,7 +12,7 @@ nav ul{
         justify-content: space-around; /* Alinha o menu à direita */
         align-items: stretch;
         padding: 10px; /* Espaçamento interno do menu */
-        flex-direction: column;
+        flex-direction: row;
     }
 
 body, h1, h2 {
