@@ -11,7 +11,7 @@ nav ul{
         display: flex;
         justify-content: center; /* Alinha o menu à direita */
         align-items: flex-start;
-        padding: 10px; /* Espaçamento interno do menu */
+        padding: 30px; /* Espaçamento interno do menu */
         flex-direction: row;
     }
 
