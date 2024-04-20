@@ -27,7 +27,6 @@ body, h1, h2 {
 
 img {
     width: 40%;
-    display: block;
     justify-content: flex-end;
     align-items: center;
 }
