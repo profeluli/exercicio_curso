@@ -4,6 +4,7 @@ header{
     justify-content: flex-end;
     align-items: flex-start;
     font-family: "Mulish", sans-serif;
+    flex-direction: row;
 }
 
 body {
