@@ -1,11 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
 
-nav{
+header{
     justify-content: flex-end;
     align-items: flex-start;
     font-family: "Mulish", sans-serif;
     flex-direction: row;
 }
+
+nav{
+        display: flex;
+        justify-content: flex-end; /* Alinha o menu à direita */
+        align-items: center; /* Alinha os itens verticalmente */
+        background-color: #333; /* Cor de fundo do menu */
+        padding: 10px; /* Espaçamento interno do menu */
+    }
 
 body, h1, h2 {
     display: flex;
@@ -16,7 +24,7 @@ body, h1, h2 {
 }
 
 img {
-    width: 10%;
+    width: 40%;
     display: flex;
     justify-content: right;
     align-items: flex-end;
