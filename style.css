@@ -10,7 +10,7 @@ header{
 nav ul{
         display: flex;
         justify-content: space-around; /* Alinha o menu à direita */
-        align-items: center; /* Alinha os itens verticalmente */
+        align-items: stretch;
         padding: 10px; /* Espaçamento interno do menu */
         flex-direction: column;
     }
