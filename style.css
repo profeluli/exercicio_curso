@@ -31,10 +31,6 @@ h2 {
     background-color: rgb(255, 178, 255);
 }
 img {
-    display: flex;
-    font-family: "Mulish", sans-serif;
-    justify-content: center;
-    align-items: center;
-    background-color: rgb(255, 178, 255);
+    width: 50%;
 
 }
